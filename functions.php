@@ -1,6 +1,6 @@
 <?php
 /**
- * Twenty Twenty-Four functions and definitions
+ * ai- functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
@@ -204,3 +204,5 @@ if ( ! function_exists( 'twentytwentyfour_pattern_categories' ) ) :
 endif;
 
 add_action( 'init', 'twentytwentyfour_pattern_categories' );
+
+
